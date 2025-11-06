@@ -4,52 +4,99 @@
 ├── .gitignore
 
 ├── README.md
+
 ├── app.js
+
 ├── cloudConfig.js
+
 ├── controller
+
     ├── listings.js
+    
     ├── reviews.js
+    
     └── users.js
+    
 ├── init
+
     ├── data.js
+    
     └── index.js
+    
 ├── middleware.js
+
 ├── models
+
     ├── listings.js
+    
     ├── review.js
+    
     └── user.js
+    
 ├── package-lock.json
+
 ├── package.json
+
 ├── public
+
     ├── css
+    
     │   ├── rating.css
+    
     │   └── style.css
+    
     └── js
+    
     │   └── script.js
+    
 ├── routes
+
     ├── listings.js
+    
     ├── review.js
+    
     └── user.js
+    
 ├── schema.js
+
 ├── utils
+
     ├── expressError.js
+    
     └── wrapAsync.js
+    
 └── views
+
     ├── errors.ejs
+    
     ├── includes
+    
         ├── flash.ejs
+        
         ├── footer.ejs
+        
         └── navbar.ejs
+        
     ├── layouts
+    
         └── boilerplate.ejs
+        
     ├── listings
+    
         ├── edit.ejs
+        
         ├── index.ejs
+        
         ├── new.ejs
+        
         └── show.ejs
+        
     └── users
+    
         ├── login.ejs
+        
         └── signup.ejs
+        
 
 
 /.gitignore:
